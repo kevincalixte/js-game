@@ -1,3 +1,4 @@
+/* DESIGN DU JEU */
 body {
     background-color: black;
     font-family: "Roboto", sans-serif;
@@ -45,8 +46,7 @@ h1 {
         font-family: "Roboto", sans-serif;
         font-weight: bold;
         letter-spacing: .1rem;
-    }
-    
+    }  
 } 
 
 #game-result{
@@ -54,4 +54,9 @@ h1 {
     font-size: 1.1rem;
     text-align: center;
     margin-top: 2rem;
+}
+
+#game-result p:nth-child(2), #game-result p:nth-child(3) {
+    font-size: smaller;
+    color: grey;
 }
