@@ -1,0 +1,3 @@
+- Ajout d'icones feu, eau, terre Font awesome
+- Ajout d'un compteur de partie limité à 3
+- Ajout d'un bouton "Nouvelle partie"

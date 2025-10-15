@@ -1,7 +1,13 @@
 # js-game
 
 ## Description
-Projet web créé avec le générateur automatique de structure.
+Le jeu consiste à selection un élément (Feu, eau ou terre) et a gagner contre le PC dans la limite de 10 points.
+
+J'ai utilisé :
+- querySelector => pour cibler les elements (boutons, p...)
+- addEventListener => pour l'action effectué par le joueur qui fera débuter le jeu
+- des conditions
+- un reset des points lorsqu'il atteint 10 
 
 ## Structure du projet
 ```
@@ -23,8 +29,7 @@ js-game/
 - HTML5
 - CSS3
 - JavaScript ES6+
-- Google Fonts (TOUTES les polices populaires)
-- Font Awesome 6.5.1 (Icônes)
+- Google Fonts Roboto
 
 ## 🎨 Google Fonts intégrées (40+ polices)
 
